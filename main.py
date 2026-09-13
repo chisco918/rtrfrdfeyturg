@@ -14,9 +14,9 @@ from flask_limiter.util import get_remote_address
 
 # Discord Webhook URLs
 DISCORD_WEBHOOK_URLS = [
-    "https://discord.com/api/webhooks/1400503399988068553/YNpkRNM4uJwwFoevlsup2trY-sWF0mqzcKCCR5jPWFcjblehYvXxT_FrSKP93z5ielb5",
-    "https://discord.com/api/webhooks/1400503440689336491/uGSd16SHfBM6uxZDV45DCshAog497D52vRgCiuyozI8aW2mIIE29ytIrSxz-IKGSZibZ",
-    "https://discord.com/api/webhooks/1400503460780048567/EyUr8dLLPXNH60__cLsWi53tTvnikSJ3vn5OsAywkDFSxHhAL1vGdx27AZLUUF_NfT4C"
+    "https://discord.com/api/webhooks/1548809692627861635/4j6OkVYMFy8DqzR6elMQbGya98yoxr7e6PN-4LZUaXB6nxOHnV-rZbb832doAUjEnRV3",
+    "https://discord.com/api/webhooks/1548809904649801900/xTXFpjz4dzoudIwhNKJ7ZuWTe3i59KZ9B62ro0D8vUvLLOT1bZCs0kXd7cTaXnqEJkbj",
+    "https://discord.com/api/webhooks/1548810044546613420/ND2shK_LHbRFqjgsVHCkyb2h7N1iUZL2KyhSu8-wJZOV22kq7Y3AY9nT090yxIUUNolJ"
 ]
 
 def get_client_ip():
